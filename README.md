@@ -1,66 +1,47 @@
-## Available Scripts
+# Coupleflix
 
-In the project directory, you can run:
+Projeto desenvolvido durante a imersão React da Alura.
 
-### `yarn start`
+### Links Adicionais
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Aula 1**
+React Components e AluraFlix
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- [ButtonLink.js](https://gist.github.com/omariosouto/19dafd5ca155c46b3dcb31df89cfba55)
+- [Virtual DOM na pratica](https://www.youtube.com/watch?v=5MzOCxSWrrc)
+- [Atalhos VSCode](https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes)
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [Spotcast](https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq)
+- [Organização de Projetos](https://www.youtube.com/watch?v=yMRSDdifGW8)
+- [Estilização Imersão React](https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)
 
-### `yarn test`
+**Aula 2**
+Roteamento e state
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Formulários](https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634)
+- [Como centralizar no CSS?](https://www.youtube.com/watch?v=Cu-HP-gvggg)
+- [Diferença entre forEach e map](https://www.youtube.com/watch?v=JbzcLKiTThk)
+- [Flappy Bird](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+- [Pare de chutar o CSS](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x)
+- [Estilização Imersão React](https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)
 
-### `yarn build`
+**Aula 3**
+Formulários reutilizáveis e mais components
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Categoria.js](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**Aula 4**
+Ajax, validação e o back-end
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [FormField.js](https://gist.github.com/omariosouto/643616a1f923b3350675b643cccb462a)
+- [API Alura Cursos](https://suporte.alura.com.br/article/315-como-funciona-a-api-publica-da-alura)
+- [API Alura Dashboard](https://suporte.alura.com.br/article/314-beta-api-do-dashboard-para-alunos)
 
-### `yarn eject`
+**Aula 5**
+Gerenciamento de videos com React e JavaScript
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [FormField.js](https://gist.github.com/omariosouto/710e1627703647c311d511f07a5aa611)
+- [Projeto Final](https://github.com/imersao-alura/aluraflix/tree/2f9af81fe336397a716ebdb76156e99bb4f298f2/src)
+- [Validações React](https://www.youtube.com/watch?v=-nYNd6EuZHU&feature=youtu.be)
+- [Datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
